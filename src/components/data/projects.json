@@ -1,0 +1,36 @@
+[
+    {
+      "key": 1,
+      "title": "EVENT-MANAGEMENT",
+      "imageSrc": "/assets/hero/eventmanagement.avif",
+      "description": "This is a project made using MERN stack",
+      "demo": "https://event-planning-kings.netlify.app/",
+      "source": "https://github.com/karuna211204/EVENT_MANAGEMENT"
+    },
+    {
+      "key": 2,
+      "title": "MY 3D PORTFOLIO",
+      "imageSrc": "/assets/hero/portfolio.png",
+      "description": "This is a project made with HTML,CSS AND Javascript.",
+      "demo": "https://karuna211204.github.io/KARUNA-PORTFOLIO/",
+      "source": "https://github.com/karuna211204/KARUNA-PORTFOLIO"
+    },
+    {
+      "key": 3,
+      "title": "WEATHER APPLICATION",
+      "imageSrc":  "/assets/hero/weather.png",
+      "description": "This is a project made with HTML,CSS AND Javascript.",
+      "demo": "https://weather-app-karuna.netlify.app/",
+      "source": "https://github.com/karuna211204/WEATHER-APP"
+    },
+    {
+      "key": 4,
+      "title": "MY PORTFOLIO",
+      "imageSrc":  "/assets/hero/my_portfolio.png",
+      "description": "This is a project made with React.js",
+      "demo": "https://weather-app-karuna.netlify.app/",
+      "source": "https://github.com/karuna211204/WEATHER-APP"
+    }
+   
+   
+  ]

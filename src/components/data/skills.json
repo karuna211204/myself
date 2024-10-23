@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "id": 2,
+    "title": "CSS",
+    "imageSrc": "skills/css .png"
+  },
+  
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "id": 4,
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "id": 5,
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "id": 6,
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "id": 7,
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "id": 8,
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
+    "id": 9,
+    "title": "DBMS",
+    "imageSrc": "skills/dbms.png"
+  },
+  {
+    "id": 10,
+    "title": "MY SQL",
+    "imageSrc": "skills/mysql.png"
+  },
+ { 
+    "id": 11,
+    "title": "OOPS",
+    "imageSrc": "skills/oops.png"
+  }
+ 
+]

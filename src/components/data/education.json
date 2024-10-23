@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "Bachelors of Technology",
+    "organisation": "National Institute of Technology Jamshedpur",
+    "startDate": "Nov, 2022-",
+    "endDate": "Present",
+    "location": "Jamshedpur, Jharkhand",
+    "experiences": [
+      "Pursuing my B.Tech in Electronics and Communication Engineering with a current CGPA of 7.53."
+    ],
+    "imageSrc": "Education/nitjamshedpur.png"
+  },
+  {
+    "id": 2,
+    "role": "12th Standard",
+    "organisation": "Narayana Junior College",
+    "startDate": "2020-",
+    "endDate": "2022",
+    "location": "Vijayawada, Andhra Pradesh",
+    "experiences": [
+      "Completed 12th Standard with a percentage of 97.1 under the Andhra Pradesh State Board."
+    ],
+    "imageSrc": "Education/Narayana.png"
+  },
+  {
+    "id": 3,
+    "role": "10th Standard",
+    "organisation": "Viswabharathi E.M High School",
+    "startDate": "2018-",
+    "endDate": "2020",
+    "location": "Gudivada, Andhra Pradesh",
+    "experiences": [
+      "Completed 10th Standard with a perfect score of 100% under the Andhra Pradesh State Board."
+    ],
+    "imageSrc": "Education/viswabharathi.png"
+  }
+]

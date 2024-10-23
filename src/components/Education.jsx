@@ -1,5 +1,5 @@
 import React from "react";
-import educationData from "./data/Education.json"; // Renamed the import
+import educationData from "./data/education.json"; // Renamed the import
 
 const Education = () => {
   return (
